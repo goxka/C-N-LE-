@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 
 #EXTINF:1 tvg-id="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/goxka/C-N-LE-/master/La_1.png" group-title="TV",La 1
 http://app-powerfhd.shurty.live/live/sup.php?z=997&u=250mxX5205q1525&s=700252752625515&id=3797&t=live&f=ts
