@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:0,DAZN LaLiga
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:0,DAZN LaLiga 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:0,DAZN LaLiga 3
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:0,DAZN 1
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:0,DAZN 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:0,DAZN 3
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:0,DAZN 4
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:0,DAZN F1
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:0,F1 TV
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=7088d4b32f4a7c0326765f13764417d038a4524d
+#EXTINF:0,LaLiga TV Bar
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:0,Movistar LaLiga TV
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:0,Movistar LaLiga 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
+#EXTINF:0,LaLiga Hypermotion
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:0,LaLiga Hypermotion 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:0,Movistar Plus
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:0,Movistar Golf
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:0,Movistar Golf 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:0,Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:0,Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:0,Movistar Deportes 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:0,Movistar Deportes 3
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:0,Movistar Deportes 4
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:0,Movistar Deportes 5
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:0,Movistar Deportes 6
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:0,Movistar Deportes 7
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:0,Movistar Liga de Campeones
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:0,Movistar Liga de Campeones 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:0,Movistar Liga de Campeones 3
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.38:49156/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
