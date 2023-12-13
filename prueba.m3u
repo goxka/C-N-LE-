@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="", DAZN LaLiga
-http://192.168.1.38:49156/ace/manifest.m3u8?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+http://192.168.1.38:49156/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
